@@ -1,8 +1,9 @@
 
 # Hi there, I'm Hasnain! 👋 (@hasnainstack)
 
-Customized developer profile focusing on AI, Machine Learning, and Computer Vision. I build end-to-end intelligent pipelines, explore multimodal architectures, and love turning complex data into sleek, interactive experiences.
+Hasnain is a keen learner he loves to learn new things. He is currently a Data Science student at Imsciences. He started learning the basics of programming and coding to get hands-on skills. In the Shippuden part of Hasnain’s life, he is learning AI and wants to become an AI engineer.
 
+When not studying or working, Hasnain spends most of his time watching anime, videos about AI, ML, and technology. Besides academics, he enjoys playing chess and piano.
 ---
 
 ## ⚡ GitHub Activity & Streaks
@@ -33,4 +34,4 @@ Sit back and watch the snake consume my contribution grid graph!
 
 ---
 
-*“The unexamined life is not worth living.” – Socrates* 🏛️
+*“The unexamined life is not worth living.” – Socrates*
