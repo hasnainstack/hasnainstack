@@ -34,5 +34,5 @@ Sit back and watch the snake consume my contribution grid graph!
 
 ---
 My Portfolio: https://hasnainkdev.vercel.app
-
+*”Your Git history tells the story of your discipline.”*
 *“The unexamined life is not worth living.” – Socrates*
