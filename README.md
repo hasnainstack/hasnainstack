@@ -32,6 +32,15 @@ Sit back and watch the snake consume my contribution grid graph!
 *   **Data Science:** Linear Algebra, Calculus, NumPy, Pandas, SQLite
 *   **Design & UI:** Modern Minimalist Design, Glassmorphism, Photoshop
 
+What I’m Currently Working On
+
+* 🤖 Exploring AI & Machine Learning
+* 📊 Strengthening my Data Science fundamentals
+* 🧠 Improving DSA & problem-solving
+* 🛠️ Building practical AI-powered projects
+* 🎯 Working toward becoming an AI Engineer
+
+
 ---
 My Portfolio: https://hasnainkdev.vercel.app
 *”Your Git history tells the story of your discipline.”*
