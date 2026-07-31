@@ -1,5 +1,5 @@
 
-# Hi there, I'm Hasnain! 👋 (@hasnainstack)
+# Hi there, I'm Hasnain Asif khan! 👋 (@hasnainstack)
 
 Hasnain is a keen learner he loves to learn new things. He is currently a Data Science student at Imsciences. He started learning the basics of programming and coding to get hands-on skills. In the Shippuden part of Hasnain’s life, he is learning AI and wants to become an AI engineer.
 
