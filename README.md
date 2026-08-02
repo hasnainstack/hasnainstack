@@ -44,4 +44,4 @@ What I’m Currently Working On
 ---
 My Portfolio: https://hasnainkdev.vercel.app
 *”Your Git history tells the story of your discipline.”*
-*“The unexamined life is not worth living.” – Socrates*
+*“The unexamined life is not worth living.” *
