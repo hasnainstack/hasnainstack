@@ -25,9 +25,11 @@ Sit back and watch the snake consume my contribution grid graph!
 
 ---
 
+
+
 ## 🛠️ Core Tech Stack
 
-*   **Languages:** Python, C++, SQL
+*   **Languages:** Python, C++, SQL,React
 *   **AI & Computer Vision:** YOLO11, OpenCV, FastAPI, Gemini API
 *   **Data Science:** Linear Algebra, Calculus, NumPy, Pandas, SQLite
 *   **Design & UI:** Modern Minimalist Design, Glassmorphism, Photoshop
